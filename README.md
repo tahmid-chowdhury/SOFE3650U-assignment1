@@ -18,4 +18,4 @@ Date: September 27, 2023
 ## Test Methods
 > A description of the test methods that we developed and the execution of them, shown as screen dumps
 
-![This is a test to show how screendumps are shown](https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png)
+![The test method that we developed](https://github.com/tahmid-chowdhury/SOFE3650U-assignment1/blob/main/TestMethod.png)
