@@ -1,7 +1,7 @@
 # SOFE 3650U: Software Design &amp; Architecture
 ## Assignment 1: Design Patterns
-### Armaghan Nasir - 100820948
-### Tahmid Chowdhury - 100822671
+### [Armaghan Nasir](https://github.com/Armaghan180) - 100820948
+### [Tahmid Chowdhury](https://github.com/tahmid-chowdhury) - 100822671
 ### September 27, 2023
 
 ## Structure of Repository
