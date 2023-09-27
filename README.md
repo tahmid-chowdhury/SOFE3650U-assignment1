@@ -6,6 +6,9 @@ Group Members:
 
 Date: September 27, 2023
 
+## UML Diagram
+![A UML diagram of our design](https://github.com/tahmid-chowdhury/SOFE3650U-assignment1/blob/main/UML.png)
+
 ## Structure of Repository
 > A brief description of the structure of our repository (i.e. what the folders contain)
 - The **['root'](https://github.com/tahmid-chowdhury/SOFE3650U-assignment1/tree/main)** folder contains the **['source'](https://github.com/tahmid-chowdhury/SOFE3650U-assignment1/tree/main/source)** and **['test'](https://github.com/tahmid-chowdhury/SOFE3650U-assignment1/tree/main/test)** folders, as well as the **['README.md'](https://github.com/tahmid-chowdhury/SOFE3650U-assignment1/blob/main/README.md)** and **['UML.png'](https://github.com/tahmid-chowdhury/SOFE3650U-assignment1/blob/main/UML.png)** files
