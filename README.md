@@ -13,6 +13,6 @@ Date: September 27, 2023
 - The **['test'](https://github.com/tahmid-chowdhury/SOFE3650U-assignment1/tree/main/test)** folder contains the **['TestDriver.java'](https://github.com/tahmid-chowdhury/SOFE3650U-assignment1/blob/main/TestDriver.java)** file, which demonstrates that the source code stored in the **['source'](https://github.com/tahmid-chowdhury/SOFE3650U-assignment1/tree/main/source)** folder works
 
 ## Test Methods
-> Describe the test methods that we developed and show the execution of these (as screen dumps) in this section of the README file
+> A description of the test methods that we developed and the execution of these shown as screen dumps
 
 ![This is a test to show how screendumps are shown](https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png)
