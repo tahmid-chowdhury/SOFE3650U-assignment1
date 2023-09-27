@@ -1,9 +1,13 @@
 # SOFE 3650U Assignment 1: Design Patterns
-**[Armaghan Nasir](https://github.com/Armaghan180) - 100820948**
+[Armaghan Nasir](https://github.com/Armaghan180) - 100820948
 
-**[Tahmid Chowdhury](https://github.com/tahmid-chowdhury) - 100822671**
+@Armaghan180
 
-**September 27, 2023**
+[Tahmid Chowdhury](https://github.com/tahmid-chowdhury) - 100822671
+
+@tahmid-chowdhury
+
+September 27, 2023
 
 ## Structure of Repository
 A brief description of the structure of our repository (i.e. what the folders contain)
