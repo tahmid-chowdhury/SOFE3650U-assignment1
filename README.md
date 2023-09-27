@@ -16,6 +16,10 @@ Date: September 27, 2023
 - The **['test'](https://github.com/tahmid-chowdhury/SOFE3650U-assignment1/tree/main/test)** folder contains the **['TestDriver.java'](https://github.com/tahmid-chowdhury/SOFE3650U-assignment1/blob/main/test/TestDriver.java)** file, which demonstrates that the source code stored in the **['source'](https://github.com/tahmid-chowdhury/SOFE3650U-assignment1/tree/main/source)** folder works
 
 ## Test Methods
-> A description of the test methods that we developed and the execution of them, shown as screen dumps
-
+> A description of the test method that we developed and the execution of it
+Our test method, 'TestDriver.java' is a simple demonstration of the Factory Method pattern. It's contents are as shown below.
 ![The test method that we developed](https://github.com/tahmid-chowdhury/SOFE3650U-assignment1/blob/main/TestMethod.png)
+1. First, two concrete factory objects, "appleFactory" and "bananaFactory", are created, which implement the "GroceryProductFactory" interface.
+2. Using these factories, an "Apple" and "Banana", extensions of the abstract class "GroceryProduct" are created.
+3. The "initializePriceFromDatabase" method is called on both objects, which gets and sets their prices from 'database.txt'.
+4. Finally, the prices of an apple and banana are printed.
