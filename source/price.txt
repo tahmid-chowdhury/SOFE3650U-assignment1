@@ -1,0 +1,16 @@
+-------------------------------
+Apple Inventory:
+
+Type: Honeycrisp
+Product_ID: H04C45
+Apple Price: 80 cents per unit
+Quantity: 80
+
+-------------------------------
+Banana Inventory:
+
+Type: Cavendish
+Product_ID: C5D67
+Banana Price: 31 cents per unit
+Quantity: 80
+-------------------------------
