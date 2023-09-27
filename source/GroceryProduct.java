@@ -3,31 +3,20 @@ import java.io.FileReader;
 import java.io.IOException;
 
 abstract class GroceryProduct {
-  public String productName;
-  public double productPrice;
+    public String productName;
+    public double productPrice;
 
-  public GroceryProduct(String productName) {
-    this.productName = productName;
-  }
+    public GroceryProduct(String productName) {
+        this.productName = productName;
+    }
 
-  public void setPrice(double productPrice) {
-    this.productPrice = productPrice;
-  }
+    public void setPrice(double productPrice) {
+        this.productPrice = productPrice;
+    }
 
-  public double getPrice() {
-    return productPrice;
-  }
+    public double getPrice() {
+        return productPrice;
+    }
 
-  public abstract void initializePriceFromDatabase(String fileName);
-}
-
-class Orange extends GroceryProduct {
-  public Orange(String productName) {
-    super(productName);
-  }
-
-  @Override
-  public void initializePriceFromDatabase(String fileName) {
-    // Similar implementation as in Apple class
-  }
+    public abstract void initializePriceFromDatabase(String fileName);
 }
