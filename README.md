@@ -24,3 +24,9 @@ Our test method, 'TestDriver.java' is a simple demonstration of the Factory Meth
 2. Using these factories, an "Apple" and "Banana", extensions of the abstract class "GroceryProduct" are created.
 3. The "initializePriceFromDatabase" method is called on both objects, which gets and sets their prices from 'database.txt'.
 4. Finally, the prices of an apple and banana are printed.
+
+The execution of this test method is as follows:
+```
+The price of an apple is $1.25
+The price of a banana is $1.49
+```
