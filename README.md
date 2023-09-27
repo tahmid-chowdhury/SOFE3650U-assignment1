@@ -1,6 +1,7 @@
 # SOFE 3650U Assignment 1: Design Patterns
 Group Members:
 - [Armaghan Nasir](https://github.com/Armaghan180) - 100820948
+- [Rushi Rathod](https://github.com/rushirajrathod) - 100826456
 - [Tahmid Chowdhury](https://github.com/tahmid-chowdhury) - 100822671
 
 Date: September 27, 2023
