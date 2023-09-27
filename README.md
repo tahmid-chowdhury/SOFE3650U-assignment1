@@ -1,5 +1,8 @@
-# SOFE3650U-assignment1
-Software Design &amp; Architecture - Assignment 1: Design Patterns
+# SOFE 3650U: Software Design &amp; Architecture
+## Assignment 1: Design Patterns
+### Armaghan Nasir - 100820948
+### Tahmid Chowdhury - 100822671
+### September 27, 2023
 
 ## Structure of Repository
 A brief description of the structure of our repository (i.e. what the folders contain)
